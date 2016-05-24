@@ -23,3 +23,15 @@ app/src/main/java/jp/ne/donuts/uniclipboard/Clipboard.java
 ```
 ./app/release/uniClipboard.jar
 ```
+
+## dependencies
+
+```
+app/libs/classes.jar
+```
+
+Unityからコピーしてます. Mac の場合
+
+```
+/Applications/Unity/PlaybackEngines/AndroidPlayer/Variations/mono/Release/Classes/classes.jar 
+```
